@@ -2,6 +2,7 @@
 
 ## Overview
 This project provides a comprehensive guide to implementing an end-to-end Azure data engineering solution. It covers essential tools, techniques, and best practices, making it an ideal resource for aspiring data engineers looking to enhance their skills.
+[st-1](https://github.com/user-attachments/assets/40b3fd17-47af-476c-b4b9-0ef564ea6445)
 
 ## Highlights
 - **Master In-Demand Azure Tools**: Gain hands-on experience with Azure Data Lake, Azure SQL Database, and Azure Data Factory to improve job readiness.
@@ -22,7 +23,7 @@ Azure, Data Engineering, Incremental Loading, Star Schema, Data Factory, ETL, Me
 
 ---
 
-### 📌 Stay Connected![st-1](https://github.com/user-attachments/assets/40b3fd17-47af-476c-b4b9-0ef564ea6445)
+### 📌 Stay Connected!
 
 For more updates on Azure data engineering projects, feel free to contribute, share feedback, or explore similar repositories.
 
