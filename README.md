@@ -2,7 +2,8 @@
 
 ## Overview
 This project provides a comprehensive guide to implementing an end-to-end Azure data engineering solution. It covers essential tools, techniques, and best practices, making it an ideal resource for aspiring data engineers looking to enhance their skills.
-[st-1](https://github.com/user-attachments/assets/40b3fd17-47af-476c-b4b9-0ef564ea6445)
+![st-1](https://github.com/user-attachments/assets/5e276632-62ce-45c2-b56e-3119be0fe2a8)
+
 
 ## Highlights
 - **Master In-Demand Azure Tools**: Gain hands-on experience with Azure Data Lake, Azure SQL Database, and Azure Data Factory to improve job readiness.
