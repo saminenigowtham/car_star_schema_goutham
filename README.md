@@ -22,7 +22,8 @@ Azure, Data Engineering, Incremental Loading, Star Schema, Data Factory, ETL, Me
 
 ---
 
-### 📌 Stay Connected
+### 📌 Stay Connected![st-1](https://github.com/user-attachments/assets/40b3fd17-47af-476c-b4b9-0ef564ea6445)
+
 For more updates on Azure data engineering projects, feel free to contribute, share feedback, or explore similar repositories.
 
 🚀 Happy Coding!
